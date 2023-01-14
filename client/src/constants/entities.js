@@ -1,0 +1,9 @@
+export const USER_1 = 0
+export const USER_2 = 0
+export const CC_USER_1 = 0
+export const CC_USER_2 = 0
+export const CC_USER_3 = 0
+export const CC_USER_4 = 0
+export const GROUP = 0
+export const CC_USER_5 = 0
+export const CC_USER_6 = 0
